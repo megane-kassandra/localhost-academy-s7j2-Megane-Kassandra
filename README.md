@@ -1,6 +1,8 @@
 # Commandes pour executer les 3 scripts
 python3 ex1_journal.py
+
 python3 ex2_csv.py
+
 python3 ex3_persistance.py
 
 # Tests effectues

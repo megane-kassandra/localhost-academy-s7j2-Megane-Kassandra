@@ -1,0 +1,8 @@
+gitignore
+
+# Environnement virtuel
+.venv/
+
+# cache python
+__pycache__/
+*.py[cod]
